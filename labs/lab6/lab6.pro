@@ -34,4 +34,6 @@ optional.h \
 
 DISTFILES += \
 data/csv/data.csv \
-data/csv/data2.csv
+data/csv/data2.csv \
+    data/xml/data.xml \
+    data/xml/data2.xml

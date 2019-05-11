@@ -1,6 +1,6 @@
 <dinos>
-    <dino name="Plotosaurus" period="Cretaceous" family="Mosasauridae" mass="2400" id="1" discovery="1941"/>
-    <dino name="Excision" period="Modern" family="Destroid" mass="75" id="3" discovery="2012"/>
-    <dino name="Diplodocus" period="Jurassic" family="Diplodocidae" mass="13000" id="4" discovery="1877"/>
-    <dino name="Diego" period="1800" family="Brando" mass="75.5" id="5" discovery="1800"/>
+    <dino name="Plotosaurus" mass="2400" period="Cretaceous" family="Mosasauridae" id="1" discovery="1941"/>
+    <dino name="Excision" mass="75" period="Modern" family="Destroid" id="3" discovery="2012"/>
+    <dino name="Ekkos" mass="4444" period="Now" family="Ekko" id="4" discovery="2013"/>
+    <dino name="Diego" mass="75.5" period="1800" family="Brando" id="5" discovery="1800"/>
 </dinos>
