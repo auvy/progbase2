@@ -1,0 +1,7 @@
+<periods>
+    <period name="Stone" time="30000" id="6"/>
+    <period name="Iron" time="2500" id="9"/>
+    <period name="Golden" time="1000" id="42"/>
+    <period name="Platinum" time="9000" id="43"/>
+    <period name="new" time="678995.6875" id="44"/>
+</periods>

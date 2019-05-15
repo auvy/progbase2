@@ -1,0 +1,6 @@
+<dinos>
+    <dino name="Plotosaurus" discovery="1941" period="Cretaceous" mass="2400" id="1" family="Mosasauridae"/>
+    <dino name="Excision" discovery="2012" period="Modern" mass="75" id="3" family="Destroid"/>
+    <dino name="Ekkos1" discovery="4" period="Period2" mass="5" id="4" family="Family3"/>
+    <dino name="Diego" discovery="1800" period="1800" mass="75.5" id="5" family="Brando"/>
+</dinos>
