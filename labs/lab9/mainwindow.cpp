@@ -60,7 +60,7 @@ void MainWindow::onOpen()
     qDebug() << "OPEN";
     QString file_path = QFileDialog::getExistingDirectory(
                 this,              // parent
-                "Dialog Caption",  // caption
+                "Open database",  // caption
                 "",                // directory to start with
                 QFileDialog::ShowDirsOnly | QFileDialog::DontResolveSymlinks);  // file name filter
     qDebug() << file_path;
